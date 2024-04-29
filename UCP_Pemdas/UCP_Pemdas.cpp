@@ -69,9 +69,6 @@
 #include <iostream>
 using namespace std;
 
-
-
-
 int main() {
 
     int jumlah_mahasiswa = 20;                          
